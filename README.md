@@ -14,4 +14,4 @@ Claude Code 会按 `SKILL.md` 里的 `description` 自动匹配触发，也可�
 
 skill 用中文编写。示例数字均为虚构，表名、字段名为通用占位，请按自己的数据平台替换。
 
-更多 skills：[imQiwei/claude-skills](https://github.com/imQiwei/claude-skills)
+同系列 skills：[data-task-spec](https://github.com/imQiwei/data-task-spec) · [retention-funnel-analysis](https://github.com/imQiwei/retention-funnel-analysis) · [briefing-script](https://github.com/imQiwei/briefing-script)
